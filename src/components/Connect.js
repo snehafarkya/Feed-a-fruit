@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./Navbar";
 import video from "./video.mp4";
 function Connect() {
   return (
     <>
+
       <div className="con">
         <p className="para">
           Would like to stay <span id="span">connected with me?</span> <br></br>

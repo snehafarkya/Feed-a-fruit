@@ -13,8 +13,8 @@ function Navbar() {
         <li className="li">
           <Link to="/detail"> Details</Link>
         </li>
-        <li className="li">Healthy Recipes</li>
-        <li className="li">Connect</li>
+        <li className="li"><Link to="/recipe"> Recipes</Link></li>
+        <li className="li"><Link to="/connect"> Conncet</Link></li>
       </ul>
     </div>
   );
