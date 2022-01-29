@@ -6,7 +6,6 @@ import Kabobs from "./fruits/Kabobs";
 import Parfait from "./fruits/Parfait";
 import Popsicle from "./fruits/Popsicle";
 import Salad from "./fruits/Salad";
-import Navbar from "./Navbar";
 
 function Recipe() {
   return (

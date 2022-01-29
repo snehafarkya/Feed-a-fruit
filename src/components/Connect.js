@@ -3,7 +3,6 @@ import video from "./video.mp4";
 function Connect() {
   return (
     <>
-
       <div className="con">
         <p className="para">
           Would like to stay <span id="span">connected with me?</span> <br></br>
@@ -20,6 +19,7 @@ function Connect() {
               <i class="fab fa-github"></i>
               <a
                 className="a"
+                rel="noreferrer"
                 target="_blank"
                 href="https://github.com/snehafarkya"
               >
@@ -30,7 +30,8 @@ function Connect() {
             <div className="icon">
               <i class="fab fa-linkedin"></i>
               <a
-                className="a"
+                className="a" 
+                rel="noreferrer"
                 target="blank"
                 href="https://www.linkedin.com/in/sneha-farkya-288773217/"
               >
@@ -45,6 +46,7 @@ function Connect() {
               <i class="fas fa-envelope-open-text"></i>
               <a
                 className="a"
+                rel="noreferrer"
                 target="blank"
                 href="mailto:snhafarkya@gmail.com"
               >
