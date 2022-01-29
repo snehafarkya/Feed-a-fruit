@@ -22,7 +22,7 @@ export default function App() {
           <Route path="/connect" element={<Connect />} />
         </Routes>
         <br></br>
-      
+      <Home/>
   
       </div>
     </>
