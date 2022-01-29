@@ -9,13 +9,6 @@ import Detail from "./components/Detail";
 import { Route, Routes } from "react-router-dom";
 import Connect from "./components/Connect";
 
-{
-  /* inline stylin can be done as style = {{property}} */
-}
-{
-  /* Inline js can be done through {var name} */
-}
-
 export default function App() {
   return (
     <>
