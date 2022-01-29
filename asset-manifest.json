@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Feed-a-fruit/static/css/main.330516e1.css",
-    "main.js": "/Feed-a-fruit/static/js/main.36eebe19.js",
+    "main.js": "/Feed-a-fruit/static/js/main.39d384d9.js",
     "static/media/video.mp4": "/Feed-a-fruit/static/media/video.c214ddcc45ed5797d2b8.mp4",
     "static/media/Rectangle.png": "/Feed-a-fruit/static/media/Rectangle.4a07c9e02e2629e5bc99.png",
     "index.html": "/Feed-a-fruit/index.html",
     "main.330516e1.css.map": "/Feed-a-fruit/static/css/main.330516e1.css.map",
-    "main.36eebe19.js.map": "/Feed-a-fruit/static/js/main.36eebe19.js.map"
+    "main.39d384d9.js.map": "/Feed-a-fruit/static/js/main.39d384d9.js.map"
   },
   "entrypoints": [
     "static/css/main.330516e1.css",
-    "static/js/main.36eebe19.js"
+    "static/js/main.39d384d9.js"
   ]
 }
