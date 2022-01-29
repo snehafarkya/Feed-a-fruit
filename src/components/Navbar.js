@@ -9,7 +9,7 @@ function Navbar() {
         <span className="feed">Feed A Fruit</span>
       </div>
       <ul id="ul">
-        <li className="li"> Home</li>
+        <li className="li"> <Link to="/"> Home</Link></li>
         <li className="li">
           <Link to="/detail"> Details</Link>
         </li>
