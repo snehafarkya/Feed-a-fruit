@@ -15,32 +15,32 @@ function Detail() {
       <h3>
         <ul className="list">
           <div className="div">
-            <li style={{ color: "white" }}>Apple</li>
+            <li style={{ color: "#3D8952" }}>Apple</li>
             <Origin originn="Europe" />
             <Apple />
           </div>
           <div className="div">
-            <li style={{ color: "white" }}>Mango</li>
+            <li style={{ color: "#3D8952" }}>Mango</li>
             <Origin originn="India" />
             <Mango />
           </div>
           <div className="div">
-            <li style={{ color: "white" }}>Watermelon</li>
+            <li style={{ color: "#3D8952" }}>Watermelon</li>
             <Origin originn="Africa" />
             <Watermelon />
           </div>
           <div className="div">
-            <li style={{ color: "white" }}>Orange </li>
+            <li style={{ color: "#3D8952" }}>Orange </li>
             <Origin originn="Southeast Asia" />
             <Orange />
           </div>
           <div className="div">
-            <li style={{ color: "white" }}>Banana</li>
+            <li style={{ color: "#3D8952" }}>Banana</li>
             <Origin originn="Southeast Asia" />
             <Banana />
           </div>
           <div className="div">
-            <li style={{ color: "white" }}>Grapes </li>
+            <li style={{ color: "#3D8952" }}>Grapes </li>
             <Origin originn="North America" />
             <Graps />
           </div>
