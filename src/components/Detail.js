@@ -10,7 +10,7 @@ import Graps from "./Graps";
 function Detail() {
   return (
     <>
-      <h2> List of fruits</h2>
+      <h2> List of <span id="span">fruits</span> </h2>
 
       <h3>
         <ul className="list">

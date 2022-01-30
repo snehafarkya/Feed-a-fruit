@@ -53,17 +53,30 @@ padding-left: 3em;
     display: flex;
     gap: 5em;
     margin-top: 2em;
+    list-style: none;
+
     float: right;
+}
+a{
+    color: #030303;
+    list-style: none;
+    text-decoration: none;
+}
+a:hover{
+   
+    text-decoration: none;
 }
 .li{
     color: black;
     font-size: 1.3em;
     list-style: none;
     cursor: pointer;
+    list-style: none;
+    transition: 0.3s all ease-in-out;
 }
 .li:hover{
     color: black;
-    
+    transform: scale(1.3);
 }
 .divv{
     float: right;
@@ -102,7 +115,7 @@ h1{
     text-align: center;
 }
 h2{
-    margin-top: 2em;
+    margin-top: 1em;
     text-align: center;
     font-size: 2.5em;
     color:#232625;
