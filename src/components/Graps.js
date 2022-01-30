@@ -10,9 +10,9 @@ export default function Graps() {
         height={200}
         width={300}
       />
-      <div className="showw">
+      <div className="showgrap">
         {show ? (
-          <p className="p">
+          <p className="pgp">
             Grapes come in different colors and forms. There are red, green, and
             purple grapes, seedless grapes, grape jelly, grape jam and grape
             juice, raisins, currents, and sultanas, not to mention wine.

@@ -10,9 +10,9 @@ export default function Mango() {
         height={200}
         width={300}
       />
-      <div className="showw">
+      <div className="showmango">
         {show ? (
-          <p className="p">
+          <p className="pmn">
             Mangoes are sweet, creamy fruits that have a range of possible
             health benefits. They are highly popular around the world.
           </p>

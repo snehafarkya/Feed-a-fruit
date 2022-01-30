@@ -11,9 +11,9 @@ export default function Orange() {
         width={300}
       />
 
-      <div className="showw">
+      <div className="showorange">
         {show ? (
-          <p className="p">
+          <p className="pog">
             Oranges are a type of low calorie, highly nutritious citrus fruit.
             As part of a healthful and varied diet, oranges contribute to
             strong, clear skin and can help lower a person’s risk of many

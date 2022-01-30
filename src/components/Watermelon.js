@@ -10,9 +10,9 @@ export default function Watermelon() {
         height={200}
         width={300}
       />
-      <div className="showw">
+      <div className="showwatermelon">
         {dis ? (
-          <p className="p">
+          <p className="pwt">
             Watermelon is a sweet and refreshing low calorie summer snack. It
             provides hydration and also essential nutrients, including vitamins,
             minerals, and antioxidants.

@@ -132,7 +132,7 @@ h4{
     color: white;
     font-size: 1.2em;
 }
-.div{
+.divap,.divmn,.divwt,.divog,.divba,.divgp{
     background: #E2F1E2;
     box-shadow: -14px -14px 30px #EFFFF0, 12px 12px 31px rgba(0, 0, 0, 0.2);
     border-radius: 40px;
@@ -155,7 +155,7 @@ h4{
     list-style: none;
 }
 
-.p{
+.pap,.pwt,.pmn,.pog,.pgp,.pba{
     color: black;
     font-size: 1em;
     text-align: left;

@@ -11,9 +11,9 @@ export default function Banana() {
         width={300}
       />
 
-      <div className="showw">
+      <div className="showbanana">
         {show ? (
-          <p className="p">
+          <p className="pba">
             Bananas are one of the most popular fruits worldwide. They contain
             essential nutrients that can have a protective impact on health.
           </p>

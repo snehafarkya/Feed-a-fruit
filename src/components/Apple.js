@@ -16,9 +16,9 @@ export default function Apple() {
         width={300}
       />
       {/* {names.map((item) => <p key={item.id}>{item.name}</p>) } */}
-      <div className="showw">
+      <div className="showapple">
         {show ? (
-          <p className="p">
+          <p className="pap">
             Apples are a popular fruit, containing antioxidants, vitamins,
             dietary fiber, and a range of other nutrients. Due to their varied
             nutrient content, they may help prevent several health conditions.
