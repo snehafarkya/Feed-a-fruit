@@ -1,12 +1,11 @@
 body{
     margin: 0;
     background: #E0EEE0;
-
     color: black;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .App{
-    height: 1500px;
+    height: 100vh;
     width: 1500px;
 }
 .navbar{
