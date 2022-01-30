@@ -17,11 +17,9 @@ export default function Home() {
       <div className="divv">
         <Clock />
       </div>
-      
     </>
   );
 }
 
-const Origin = (props) => {
-  return <h4>{props.originn}</h4>;
-};
+// const Origin = (props) => {
+//   return <h4>{props.originn}</h4>;
