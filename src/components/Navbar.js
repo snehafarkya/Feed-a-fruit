@@ -14,7 +14,7 @@ function Navbar() {
           <Link to="/detail"> Details</Link>
         </li>
         <li className="li"><Link to="/recipe"> Recipes</Link></li>
-        <li className="li"><Link to="/connect"> Conncet</Link></li>
+        <li className="li"><Link to="/connect"> Connect</Link></li>
       </ul>
     </div>
   );
