@@ -378,7 +378,7 @@ footer{
     #ul{
         gap: 0.6em;
         margin: 0.8em;
-        margin-right: 0em;
+        margin-right: 0.5em;
     }
     .li{
         font-size: 1em;
