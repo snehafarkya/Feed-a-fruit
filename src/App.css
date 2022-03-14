@@ -392,8 +392,15 @@ footer{
         margin: 1em;
     }
     #img{
-        width: 95%;
+        width: 96%;
         margin: 1em;
-        height: 95%;
+        height: 96%;
+    }
+    #clock{
+        float: center;
+        color: #232625;
+        font-size: 1.5em;
+        margin-top: 1em;
+        margin-right: 1em;
     }
 }
