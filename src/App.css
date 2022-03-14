@@ -78,6 +78,7 @@ a:hover{
     color: black;
     transform: scale(1.3);
 }
+
 .divv{
     float: right;
 }
@@ -348,4 +349,46 @@ footer{
     font-size: 1.3em;
     color: #3D8952;
     
+}
+
+
+/* responsiveness */
+/* home */
+
+@media screen and (max-width: 600px) {
+    .App{
+        height: 100vh;
+        width: 100vw;
+    }
+    .navbar{
+        max-width:600px ;
+        gap: 2em;
+    }
+    #logoo{
+        width: 36px;
+    height: 36px;
+    transform: rotate(0.27deg);
+    padding-left: 1em;
+    
+    }
+    .feed{
+        margin-top: 0.5em;
+        font-size: 0.5em;
+    }
+    #ul{
+        gap: 0.6em;
+        margin: 0.8em;
+        margin-right: 0em;
+    }
+    .li{
+        font-size: 1em;
+       
+    }
+    .homi{
+        display: block;
+        margin: 1em;
+    }
+    #img{
+        width: 95%;
+    }
 }
