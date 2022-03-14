@@ -388,6 +388,9 @@ footer{
         display: block;
         margin: 1em;
     }
+    .titl{
+        margin: 1em;
+    }
     #img{
         width: 95%;
     }
