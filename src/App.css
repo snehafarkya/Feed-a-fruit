@@ -393,5 +393,7 @@ footer{
     }
     #img{
         width: 95%;
+        margin: 1em;
+        height: 95%;
     }
 }
