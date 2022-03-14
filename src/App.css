@@ -362,7 +362,7 @@ footer{
     }
     .navbar{
         max-width:600px ;
-        gap: 2em;
+        gap: 1.7em;
     }
     #logoo{
         width: 36px;
@@ -447,11 +447,52 @@ footer{
         display: grid;
         gap: 7em;
         grid-template-columns: auto;
-        margin: 16em 4em 0em;
+    
     
     }
     .thecardd{
         height: 370px;
         width: 370px;
     }
+
+
+    /* connect */
+    .links{
+        display: block;
+        gap: 5em;
+    }
+    video{
+        height: 410px;
+        width: 410px;
+    }
+    .social{
+        display: block;
+        margin-top: 3em;
+    }
+    .a{
+       
+        font-size: 1.6em;
+        font-weight:400;
+        display: block;
+        text-decoration: none;
+      
+    }
+    .icon{
+        display: flex;
+        margin: 2em auto;
+        gap: 2em;
+    }
+    i{
+        font-size: 2em;
+    }
+    blockquote{
+    font-size: 0.7em;
+    color: violet;
+    }
+    .vid{
+        border-radius: 60px;
+    }
+    video{
+    margin-left: 2em;
+}
 }
