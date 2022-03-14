@@ -484,6 +484,7 @@ footer{
     }
     i{
         font-size: 2em;
+        margin-left: 0.4em;
     }
     blockquote{
     font-size: 0.7em;
@@ -493,6 +494,7 @@ footer{
         border-radius: 60px;
     }
     video{
-    margin-left: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 }
