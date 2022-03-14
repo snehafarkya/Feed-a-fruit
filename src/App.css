@@ -465,6 +465,9 @@ footer{
         height: 410px;
         width: 410px;
     }
+    .para{
+        text-align: center;
+    }
     .social{
         display: block;
         margin-top: 3em;
