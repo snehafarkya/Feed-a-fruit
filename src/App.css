@@ -437,4 +437,21 @@ footer{
         margin-left: 3em;
       
     }
+    .mainc{
+        width: 400px;
+        height: 400px;
+        margin-top: 1em;
+        transform: translate(-50%, -50%);
+    }
+    .grid{
+        display: grid;
+        gap: 7em;
+        grid-template-columns: auto;
+        margin: 16em 4em 0em;
+    
+    }
+    .thecardd{
+        height: 370px;
+        width: 370px;
+    }
 }
